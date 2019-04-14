@@ -5,4 +5,14 @@
     <string name="strCursos">Cursos</string>
     <string name="strMidia">Mídia</string>
     <string name="strVoltar">Voltar</string>
+    <string name="strEquipeTitulo">Equipe Estudonauta</string>
+    <string name="strEquipeDescricao">Aqui entra a descrição</string>
+    <string name="strEquipeCaynan">Caynan Scremin (edição de corte)</string>
+    <string name="strEquipeGuanabara">Gustavo Guanabara (professor)</string>
+    <string name="strEquipeItalo">Italo Alves (edição de corte)</string>
+    <string name="strEquipeMichael">Michael Guanabara (finalização)</string>
+    <string name="strEquipePriscila">Priscila Marinho (programação)</string>
+    <string name="strEquipeRamon">Ramon Felinto (design)</string>
+    <string name="strEquipeVera">Vera Machado (tutoria)</string>
+    <string name="strEquipeYgor">Ygor Escure (finalização)</string>
 </resources>
